@@ -4,6 +4,6 @@ from django.contrib.auth.models import AbstractUser
 class Thing(AbstractUser):
     name = models.TextField()
     description = models.TextField()
-    #quantity = models.IntegerField()
+    quantity = models.IntegerField()
 
 
