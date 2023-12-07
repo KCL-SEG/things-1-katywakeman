@@ -125,5 +125,3 @@ STATIC_URL = '/static/'
 
 DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'
 
-# # can I bin this out??
-# THING_MODEL = 'things.Thing'

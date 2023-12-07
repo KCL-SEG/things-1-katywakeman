@@ -8,3 +8,4 @@ class Thing(models.Model):
             MinValueValidator(0),
             MaxValueValidator(100),
         ])
+
